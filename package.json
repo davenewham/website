@@ -66,9 +66,9 @@
         "react-dom": "npm:@preact/compat",
         "react-instantsearch-dom": "^6.26.0",
         "react-scrollspy": "^3.4.0",
-        "typesense": "^1.2.2",
-        "typesense-instantsearch-adapter": "^2.4.0",
-        "zustand": "^3.7.1"
+        "typesense": "^2.1.0",
+        "typesense-instantsearch-adapter": "^2.9.0",
+        "zustand": "3.7.2"
     },
     "devDependencies": {
         "@babel/core": "^7.12.0",
@@ -116,12 +116,11 @@
         "eslint-plugin-react": "^7.27.1",
         "execa": "^6.1.0",
         "fs-extra": "^10.1.0",
-        "glob": "^8.0.3",
+        "glob": "^11.0.3",
         "husky": "^4.2.5",
         "imagemin-lint-staged": "^0.4.0",
         "lint-staged": ">=9.4.3",
         "matcher": "^4.0.0",
-        "node-sass": "^7.0.0",
         "patch-package": "^6.4.7",
         "path": "^0.12.7",
         "postcss": "^8.4.31",
@@ -144,7 +143,7 @@
         "svgo": "^1.3.0",
         "tsm": "^2.2.1",
         "type-fest": "^2.12.2",
-        "typescript": "^4.6.2",
+        "typescript": "^5.9.3",
         "wait-on": "8.0.4",
         "worker-loader": "^3.0.5",
         "yesno": "^0.3.1"
